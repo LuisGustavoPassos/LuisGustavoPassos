@@ -118,7 +118,7 @@ Me chamo Luis Gustavo dos Passos Ribeiro, tenho 21 anos e moro em goiania. Curso
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="190" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=LuisGustavoPassos&show_icons=true&theme=dark&locale=pt-br&rank_icon=github" 
   />
@@ -126,7 +126,7 @@ Me chamo Luis Gustavo dos Passos Ribeiro, tenho 21 anos e moro em goiania. Curso
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="190" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGustavoPassos&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
