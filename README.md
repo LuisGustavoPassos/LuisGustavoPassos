@@ -1,13 +1,12 @@
 # Luis Gustavo dos Passos 
 
-**`Desenvolvedor FullStack`**
 
 Me chamo Luis Gustavo dos Passos Ribeiro, tenho 21 anos e moro em goiania. Curso Engenharia de Software na Unialfa. Busco sempre aprender e me aperfeiçoar principalmente na area de tecnologia.
 
 
 ---
 
-###  Linguagens e Tecnologias:
+ Linguagens e Tecnologias:
 
 <img 
     align="left" 
